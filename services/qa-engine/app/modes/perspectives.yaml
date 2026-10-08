@@ -1,0 +1,19 @@
+modes:
+  eli5:
+    label: "Explain simply"
+    instruction: "Explain like the viewer is new to the topic. Short sentences, no jargon, one everyday analogy."
+  technical:
+    label: "Technical deep dive"
+    instruction: "Explain precisely for an engineer: internals, trade-offs, edge cases, and a short code or config example if relevant."
+  business:
+    label: "Business impact"
+    instruction: "Explain for an executive: value, cost, risk, and decisions required. Avoid implementation detail."
+  analogy:
+    label: "Analogy"
+    instruction: "Explain through one vivid real-world analogy, then map each part of the analogy back to the concept."
+  stepwise:
+    label: "Step by step"
+    instruction: "Break the concept into numbered steps in the order they happen."
+  quiz:
+    label: "Test me"
+    instruction: "Ask 2-3 questions that check understanding of this segment, with answers revealed after."

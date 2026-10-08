@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "name": "root", "path": "." },
+    { "name": "web", "path": "apps/web" },
+    { "name": "api", "path": "services/api" },
+    { "name": "ingestion", "path": "services/ingestion" },
+    { "name": "qa-engine", "path": "services/qa-engine" },
+    { "name": "video-generator", "path": "services/video-generator" },
+    { "name": "infra", "path": "infra" }
+  ]
+}
